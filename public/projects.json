@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "E-mail Validator ",
+      "category": "Web development",
+      "image": "images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Weather App ",
+      "category": "Web development",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "ATM Interface ",
+      "category": "java Development",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blog Website",
+      "category": " Web Applications",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "PortFolio ",
+      "category": "Web Application",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "E-Dashboard",
+      "category": "Web design",
+      "image": "images/project-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Gym Landing page",
+      "category": "Web development",
+      "image": "https://img.freepik.com/free-vector/flat-landing-page-template-gym-exercise_23-2149557500.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Temperature Converter",
+      "category": "Applications",
+      "image": "https://code-projects.org/wp-content/uploads/2022/04/Screenshot-85.png"
+    },
+    {
+      "id": 9,
+      "title": "NetFlix Clone",
+      "category": "Web development",
+      "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/341/654/datas/original.PNG"
+    }
+  ]
+  
